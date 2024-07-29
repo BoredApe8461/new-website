@@ -20,15 +20,15 @@ const Footer = () => {
             <div className="md:mb-[32px] flex flex-col gap-2 md:last:mb-0 mb-4">
               <span className="footer-link-heading">Contact us</span>
 
-              <a className=" footer-links" href="tel:+19998887654">
-                +1 999 888-76-54
+              <a className=" footer-links" href="#">
+                - - -
               </a>
             </div>
             <div className="md:mb-[32px] flex flex-col gap-2 md:last:mb-0 mb-4">
               <span className="footer-link-heading">Email</span>
 
-              <a className="footer-links" href="mailto:hello@logoipsum.com">
-                hello@logoipsum.com
+              <a className="footer-links" href="mailto:support@regionx.tech">
+                support@regionx.tech
               </a>
             </div>
           </div>
@@ -37,10 +37,10 @@ const Footer = () => {
               <span className="footer-link-heading">Address</span>
               <a
                 className="inline-block footer-links"
-                href="https://maps.google.com/?q=2118+Thornridge+Cir,+Syracuse,+Connecticut+35624"
+                href="#"
                 target="_blank"
               >
-                2118 Thornridge Cir, Syracuse, Connecticut 35624
+                - - -
               </a>
             </div>
             <div className="md:mb-[32px] gap-2 flex-col flex md:last:mb-0 mb-4">

@@ -18,8 +18,8 @@
     "image": "/innovative-03.svg"
   },
   {
-    "id": "corespace_weigher",
-    "title": "Corespace Weigher",
+    "id": "polkadot_weigher",
+    "title": "Polkadot Weigher",
     "description": "<strong className=\"lg:font-semibold font-normal\">Tool which provides parachain</strong> teams with the data necessary to track their Coretime utilization.",
     "image": "/innovative-04.svg"
   }

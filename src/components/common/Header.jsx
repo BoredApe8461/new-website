@@ -46,7 +46,7 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
                     type="button"
                     className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
                   >
-                    Join now{" "}
+                    Open App{" "}
                     <span className="ml-2 group-hover:translate-x-1">
                       <ArrowRightIcon />
                     </span>
@@ -68,7 +68,7 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
               type="button"
               className="rounded-lg bg-primary text-white px-4 py-2 items-center whitespace-nowrap font-inter lg:flex hidden group transition-all ease-out duration-300"
             >
-              Join now{" "}
+              Open App{" "}
               <span className="ml-2 group-hover:translate-x-1 transition-all ease-out duration-300">
                 <ArrowRightIcon />
               </span>
@@ -91,7 +91,7 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
               type="button"
               className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
             >
-              Join now{" "}
+              Open App{" "}
               <span className="ml-2 group-hover:translate-x-1">
                 <ArrowRightIcon />
               </span>

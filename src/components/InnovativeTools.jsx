@@ -60,8 +60,7 @@ const InnovativeTool = () => {
               Built as a dedicated parachain
             </p>
             <h2 className="lg:text-[48px] lg:leading-[50px] md:text-[26px] md:leading-[30px] text-[22px] leading-[29px] text-black font-inter">
-              Innovative Tools for Seamless Decentralized Project Deployment on
-              Polkadot
+              Innovative Tools for Seamless Project Deployment on Polkadot
             </h2>
           </div>
         </div>

@@ -25,7 +25,7 @@ const Banner = () => {
                   className="inline-block origin-left"
                   transition={{ duration: 0.6, ease: "easeInOut", delay: 0.3 }}
                 >
-                  The place where
+                  We are making
                 </motion.span>{" "}
               </div>
               <div className="overflow-hidden">
@@ -35,7 +35,7 @@ const Banner = () => {
                   className="inline-block origin-left"
                   transition={{ duration: 0.6, ease: "easeInOut", delay: 0.4 }}
                 >
-                  <span className="font-semibold">Web3</span> is Accessible
+                  <span className="font-semibold">Web3</span> Accessible
                 </motion.span>
               </div>
             </h1>
@@ -47,7 +47,7 @@ const Banner = () => {
                   className="inline-block origin-left"
                   transition={{ duration: 0.4, ease: "easeInOut", delay: 0.7 }}
                 >
-                  We enable you to deploy and operate a decentralized
+                  We provide you the tools to deploy and operate a decentralized
                 </motion.span>{" "}
               </div>
               <div className="overflow-hidden">
@@ -57,7 +57,7 @@ const Banner = () => {
                   className="inline-block origin-left"
                   transition={{ duration: 0.4, ease: "easeInOut", delay: 0.9 }}
                 >
-                  project on Polkadot with minimal costs.
+                  project on Polkadot with minimal costs
                 </motion.span>
               </div>
             </p>
@@ -77,7 +77,7 @@ const Banner = () => {
                     type="button"
                     className="rounded-lg bg-primary text-white px-4 py-2 flex items-center justify-center whitespace-nowrap h-[57px] w-[132px] group transition-all ease-out duration-300"
                   >
-                    Join now{" "}
+                    Open App{" "}
                     <span className="ml-2 group-hover:translate-x-1 ease-out duration-300 transition-all">
                       <ArrowRightIcon />
                     </span>

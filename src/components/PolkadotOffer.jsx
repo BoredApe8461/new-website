@@ -95,7 +95,7 @@ const PolkadotOffer = () => {
                   hundreds of validators scattered around the world it serves as
                   a world computer on which projects can be deployed. With its
                   architecture where the validators are split into cores, it can
-                  verify state transitions in parallel just like a modern CPU.{" "}
+                  provide security to multiple projects in parallel.{" "}
                 </p>
               </div>
             </div>

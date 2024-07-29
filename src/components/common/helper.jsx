@@ -58,7 +58,7 @@ export const innovativeToolsLink = [
     id: "coretime_hub",
   },
   {
-    title: "corespace Weigher",
-    id: "corespace_weigher",
+    title: "Polkadot Weigher",
+    id: "polkadot_weigher",
   },
 ];
