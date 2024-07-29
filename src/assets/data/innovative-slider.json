@@ -1,0 +1,26 @@
+[
+  {
+    "title": "SERGEJ SAKAC", 
+    "job": "Core developer & Founder",
+    "description": "Sergej is a member of the Polkadot Fellowship. He has been an external core contributor on substrate and polkadot for two years now. Sergej is also a recent Engineering alumni of the Polkadot Blockchain Academy (PBA) held in Berkeley.",
+    "image": "/innovator-01.svg"
+  },
+  {
+    "title": "SERGEJ SAKAC SR.", 
+    "job": "COO",
+    "description": "Sergej Sakac Sr. is an engineer with a master's degree and over 20 years of experience in organizational roles within the IT and engineering industries. He is responsible for the operational functions of the RegionX project.",
+    "image": "/innovator-02.svg"
+  },
+  {
+    "title": "OLIVER LIM ", 
+    "job": "Full-stack developer",
+    "description": "Oliver is a full stack blockchain developer with 2 years of Rust & Substrate development experience. He was involved in 3 projects granted by Web3 Foundation - Imbue network, Fair squares and the Dotflow. He worked with Sergej on the Dotflow application.",
+    "image": "/innovator-03.svg"
+  },
+  {
+    "title": "SERGEJ SAKAC", 
+    "job": "Core developer & Founder",
+    "description": "Sergej is a member of the Polkadot Fellowship. He has been an external core contributor on substrate and polkadot for two years now. Sergej is also a recent Engineering alumni of the Polkadot Blockchain Academy (PBA) held in Berkeley.",
+    "image": "/innovator-01.svg"
+  }
+]

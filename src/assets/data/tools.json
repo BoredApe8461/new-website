@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cross_chain_regions",
+    "title": "Cross-Chain Regions",
+    "description": "<strong className=\"lg:font-semibold font-normal\">RegionX </strong>offers a solution for transferring regions across chains. This enables the creation of a decentralized secondary Coretime marketplace.",
+    "image": "/innovative-01.svg"
+  },
+  {
+    "id": "secondary_coretime_market",
+    "title": "Secondary Coretime Market",
+    "description": "A secondary Coretime market that enables developers and traders to <strong className=\"lg:font-semibold font-normal\">buy and sell Coretime</strong> affordably.",
+    "image": "/innovative-02.svg"
+  },
+  {
+    "id": "coretime_hub",
+    "title": "Coretime Hub",
+    "description": "A central hub where users are able to <strong className=\"lg:font-semibold font-normal\">perform operations on their Coretime</strong> and easily access the marketplace.",
+    "image": "/innovative-03.svg"
+  },
+  {
+    "id": "corespace_weigher",
+    "title": "Corespace Weigher",
+    "description": "<strong className=\"lg:font-semibold font-normal\">Tool which provides parachain</strong> teams with the data necessary to track their Coretime utilization.",
+    "image": "/innovative-04.svg"
+  }
+]

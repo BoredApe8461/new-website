@@ -1,0 +1,44 @@
+html,
+body {
+  /* scroll-behavior: smooth; */
+}
+.hero-white-layer {
+  border-radius: 2005.774px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #fff 50%);
+  /* background: rgba(0, 0, 0, 0.414); */
+}
+.left-line {
+  width: 2px;
+  height: 30px;
+  border-radius: 10px;
+  position: absolute;
+  background: linear-gradient(
+    0deg,
+    #262e46 0%,
+    #283f4e 16.64%,
+    #2b6b62 53.01%,
+    #10c285 100%
+  );
+
+  offset-path: path(
+    "M1 0V282.471C1 318.25 37.6685 347.255 82.901 347.255H89.6458C142.86 347.255 186 381.377 186 423.47V527"
+  );
+}
+
+.right-line {
+  width: 2px;
+  height: 30px;
+  border-radius: 10px;
+  position: absolute;
+  background: linear-gradient(
+    0deg,
+    #262e46 0%,
+    #283f4e 16.64%,
+    #2b6b62 53.01%,
+    #10c285 100%
+  );
+
+  offset-path: path(
+    "M186 527L186 244.529C186 208.75 149.331 179.745 104.099 179.745L97.3541 179.745C44.1397 179.745 0.999964 145.623 0.99996 103.53L0.999951 3.26241e-05"
+  );
+}

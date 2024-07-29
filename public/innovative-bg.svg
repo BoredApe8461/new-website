@@ -1,0 +1,23 @@
+<svg width="288" height="613" viewBox="0 0 288 613" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2036_96" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-156" y="0" width="443" height="579">
+<path d="M-156 0H287V579H-156V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_2036_96)">
+<path d="M-156 -3V-4H-157V-3H-156ZM287 -3H288V-4H287V-3ZM-156 -2H287V-4H-156V-2ZM286 -3V576H288V-3H286ZM-155 576V-3H-157V576H-155Z" fill="url(#paint0_linear_2036_96)" fill-opacity="0.12"/>
+</g>
+<path d="M65 34C187.607 34 287 120.409 287 227C287 333.591 187.607 420 65 420" stroke="black" stroke-opacity="0.12"/>
+<path d="M65 34C187.607 34 287 120.409 287 227C287 333.591 187.607 420 65 420" stroke="url(#paint1_linear_2036_96)"/>
+<path d="M65 420C-57.0549 420 -156 506.409 -156 613" stroke="black" stroke-opacity="0.12"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M85 420C73.9543 420 65 411.046 65 400V420H45C56.0457 420 65 428.954 65 440V420H85Z" fill="#10C285"/>
+<defs>
+<linearGradient id="paint0_linear_2036_96" x1="287" y1="286" x2="287" y2="576" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2036_96" x1="244.5" y1="334.5" x2="165" y2="398.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#10C285" stop-opacity="0"/>
+<stop offset="0.520833" stop-color="#10C285"/>
+<stop offset="1" stop-color="#10C285" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
