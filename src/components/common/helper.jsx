@@ -46,10 +46,6 @@ export const socialMedialinks = [
 
 export const innovativeToolsLink = [
   {
-    title: "Cross-Chain Regions",
-    id: "cross_chain_regions",
-  },
-  {
     title: "Secondary Coretime Market",
     id: "secondary_coretime_market",
   },
@@ -60,5 +56,9 @@ export const innovativeToolsLink = [
   {
     title: "Polkadot Weigher",
     id: "polkadot_weigher",
+  },
+  {
+    title: "Cross-Chain Regions",
+    id: "cross_chain_regions",
   },
 ];
