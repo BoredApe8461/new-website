@@ -63,7 +63,7 @@ const Innovators = () => {
         </div>
         <h2 className="text-black lg:text-[48px] md:text-[40px] text-[22px] md:leading-[54px] leading-[28px] font-inter font-medium lg:mb-5 mb-[25px] md:text-center pr-[100px] md:pr-0">
           Meet the{" "}
-          <span className="text-primary md:text-black">Innovators</span> Behind
+          <span className="text-primary">Team</span> Behind
           RegionX
         </h2>
       </div>

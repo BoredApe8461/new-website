@@ -46,7 +46,7 @@ const Footer = () => {
             <div className="md:mb-[32px] gap-2 flex-col flex md:last:mb-0 mb-4">
               <span className="footer-link-heading">OUR COMMUNITY</span>
               <a
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/company/regionx/"
                 target="_blank"
                 className="footer-links flex items-center"
               >
