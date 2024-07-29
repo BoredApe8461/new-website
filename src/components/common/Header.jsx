@@ -66,7 +66,6 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
               </button>
             </div>
 
-            <a href="https://app.regionx.tech" target="_blank">
               <button
                 type="button"
                 className="rounded-lg bg-primary text-white px-4 py-2 items-center whitespace-nowrap font-inter lg:flex hidden group transition-all ease-out duration-300"
@@ -76,7 +75,6 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
                   <ArrowRightIcon />
                 </span>
               </button>
-            </a>
           </div>
         </div>
       </header>
