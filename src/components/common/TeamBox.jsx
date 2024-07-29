@@ -13,8 +13,8 @@ const TeamBox = ({ item }) => {
             {item.title}{" "}
             <a
               className="absolute top-0 right-0"
-              href="https://in.linkedin.com/"
-              target="_blank"
+              href={item.linkedin}
+              target={item.linkedin.startsWith('#') ? '_self' : '_blank'}
             >
               <LinkedinIcon />
             </a>

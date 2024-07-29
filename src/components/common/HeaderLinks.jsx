@@ -10,16 +10,26 @@ const HeaderLinks = ({ setIsLeftMenu, locomotiveRef }) => {
       }
     }, 100);
   };
+
+  const handleClick = (event, url) => {
+    if (url.startsWith('#')) {
+      event.preventDefault();
+      handleScroll(url);
+    }
+  };
+
   return (
     <>
       {links.map((link, index) => (
         <li key={index} className="md:px-[15px] md:mb-0 mb-[15px] last:mb-0">
-          <div
-            onClick={() => handleScroll(link.url)}
+          <a
+            href={link.url}
+            target={link.url.startsWith('#') ? '_self' : '_blank'}
+            onClick={(event) => handleClick(event, link.url)}
             className="md:inline-block block cursor-pointer leading-[16px] py-[6px] px-4 text-black text-sm font-medium no-underline hover:bg-primary hover:text-white rounded-[4px]"
           >
             {link.title}
-          </div>
+          </a>
         </li>
       ))}
     </>

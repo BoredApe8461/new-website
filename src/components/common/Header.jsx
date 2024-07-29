@@ -42,15 +42,17 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
                   setIsLeftMenu={setIsLeftMenu}
                 />
                 <li className="md:hidden mb-[15px] last:mb-0">
-                  <button
-                    type="button"
-                    className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
-                  >
-                    Open App{" "}
-                    <span className="ml-2 group-hover:translate-x-1">
-                      <ArrowRightIcon />
-                    </span>
-                  </button>
+                  <a href="https://app.regionx.tech" target="_blank">
+                    <button
+                      type="button"
+                      className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
+                    >
+                      Open App{" "}
+                      <span className="ml-2 group-hover:translate-x-1">
+                        <ArrowRightIcon />
+                      </span>
+                    </button>
+                  </a>
                 </li>
               </ul>
             </div>
@@ -64,15 +66,17 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
               </button>
             </div>
 
-            <button
-              type="button"
-              className="rounded-lg bg-primary text-white px-4 py-2 items-center whitespace-nowrap font-inter lg:flex hidden group transition-all ease-out duration-300"
-            >
-              Open App{" "}
-              <span className="ml-2 group-hover:translate-x-1 transition-all ease-out duration-300">
-                <ArrowRightIcon />
-              </span>
-            </button>
+            <a href="https://app.regionx.tech" target="_blank">
+              <button
+                type="button"
+                className="rounded-lg bg-primary text-white px-4 py-2 items-center whitespace-nowrap font-inter lg:flex hidden group transition-all ease-out duration-300"
+              >
+                Open App{" "}
+                <span className="ml-2 group-hover:translate-x-1 transition-all ease-out duration-300">
+                  <ArrowRightIcon />
+                </span>
+              </button>
+            </a>
           </div>
         </div>
       </header>
@@ -87,15 +91,17 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
             setIsLeftMenu={setIsLeftMenu}
           />
           <li className="md:hidden mb-[15px] last:mb-0">
-            <button
-              type="button"
-              className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
-            >
-              Open App{" "}
-              <span className="ml-2 group-hover:translate-x-1">
-                <ArrowRightIcon />
-              </span>
-            </button>
+            <a href="https://app.regionx.tech" target="_blank">
+              <button
+                type="button"
+                className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
+              >
+                Open App{" "}
+                <span className="ml-2 group-hover:translate-x-1">
+                  <ArrowRightIcon />
+                </span>
+              </button>
+            </a>
           </li>
         </ul>
       </div>

@@ -1,4 +1,4 @@
-import { FlickerIcon, InstagramIcon, TwitterIcon } from "./Icon";
+import { LinkedinIcon, MediumIcon, TwitterIcon } from "./Icon";
 
 export const links = [
   {
@@ -8,13 +8,13 @@ export const links = [
   },
   {
     id: 2,
-    title: "Wiki",
-    url: "#wiki",
+    title: "Docs",
+    url: "https://docs.regionx.tech",
   },
   {
     id: 3,
     title: "Whitepaper",
-    url: "#whitepaper",
+    url: "https://github.com/RegionX-Labs/Docs/blob/main/RegionX-Core.pdf",
   },
   {
     id: 3,
@@ -26,22 +26,22 @@ export const links = [
 export const socialMedialinks = [
   {
     id: 1,
-    title: "Instagram",
-    icon: <InstagramIcon />,
-    url: "https://www.instagram.com/accounts/login/?hl=en",
-  },
-  {
-    id: 2,
-    title: "Discord",
-    icon: <FlickerIcon />,
-    url: "https://www.discord.com",
+    title: "Twitter",
+    icon: <TwitterIcon />,
+    url: "https://x.com/RegionXLabs",
   },
   {
     id: 3,
-    title: "Twitter",
-    icon: <TwitterIcon />,
-    url: "https://x.com/i/flow/login?lang=en",
+    title: "Medium",
+    icon: <MediumIcon />,
+    url: "https://medium.com/@regionx",
   },
+  {
+    id: 2,
+    title: "LinkedIn",
+    icon: <LinkedinIcon />,
+    url: "https://www.linkedin.com/company/regionx/",
+  }
 ];
 
 export const innovativeToolsLink = [

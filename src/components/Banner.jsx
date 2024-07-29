@@ -73,15 +73,17 @@ const Banner = () => {
                 }}
               >
                 <li className="flex">
-                  <button
-                    type="button"
-                    className="rounded-lg bg-primary text-white px-4 py-2 flex items-center justify-center whitespace-nowrap h-[57px] w-[132px] group transition-all ease-out duration-300"
-                  >
-                    Open App{" "}
-                    <span className="ml-2 group-hover:translate-x-1 ease-out duration-300 transition-all">
-                      <ArrowRightIcon />
-                    </span>
-                  </button>
+                  <a href="https://app.regionx.tech" target="_blank">
+                    <button
+                      type="button"
+                      className="rounded-lg bg-primary text-white px-4 py-2 flex items-center justify-center whitespace-nowrap h-[57px] w-[132px] group transition-all ease-out duration-300"
+                    >
+                      Open App{" "}
+                      <span className="ml-2 group-hover:translate-x-1 ease-out duration-300 transition-all">
+                        <ArrowRightIcon />
+                      </span>
+                    </button>
+                  </a>
                 </li>
                 <SocialMedia />
               </motion.ul>

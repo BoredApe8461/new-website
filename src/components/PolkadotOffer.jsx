@@ -18,7 +18,6 @@ const PolkadotOffer = () => {
     <div className="lg:py-[100px] overflow-hidden py-[40px]">
       <div
         ref={containerRef}
-        id="wiki"
         className="container mx-auto px-4 2xl:px-12"
       >
         <motion.div
