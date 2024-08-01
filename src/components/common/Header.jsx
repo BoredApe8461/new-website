@@ -42,17 +42,16 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
                   setIsLeftMenu={setIsLeftMenu}
                 />
                 <li className="md:hidden mb-[15px] last:mb-0">
-                  <a href="https://app.regionx.tech" target="_blank">
-                    <button
-                      type="button"
-                      className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
-                    >
-                      Open App{" "}
-                      <span className="ml-2 group-hover:translate-x-1">
-                        <ArrowRightIcon />
-                      </span>
-                    </button>
-                  </a>
+                  <button
+                    type="button"
+                    onClick={() => window.location.href='https://app.regionx.tech'}
+                    className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
+                  >
+                    Open App{" "}
+                    <span className="ml-2 group-hover:translate-x-1">
+                      <ArrowRightIcon />
+                    </span>
+                  </button>
                 </li>
               </ul>
             </div>
@@ -65,9 +64,9 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
                 <BarIcon />
               </button>
             </div>
-
               <button
                 type="button"
+                onClick={() => window.location.href='https://app.regionx.tech'}
                 className="rounded-lg bg-primary text-white px-4 py-2 items-center whitespace-nowrap font-inter lg:flex hidden group transition-all ease-out duration-300"
               >
                 Open App{" "}
@@ -89,17 +88,16 @@ const Header = ({ locomotiveRef, startScrolling, stopScrolling }) => {
             setIsLeftMenu={setIsLeftMenu}
           />
           <li className="md:hidden mb-[15px] last:mb-0">
-            <a href="https://app.regionx.tech" target="_blank">
-              <button
-                type="button"
-                className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
-              >
-                Open App{" "}
-                <span className="ml-2 group-hover:translate-x-1">
-                  <ArrowRightIcon />
-                </span>
-              </button>
-            </a>
+            <button
+              type="button"
+              onClick={() => window.location.href='https://app.regionx.tech'}
+              className="rounded-lg bg-primary text-white px-4 py-2 flex items-center whitespace-nowrap font-inter group transition-all ease-out duration-300"
+            >
+              Open App{" "}
+              <span className="ml-2 group-hover:translate-x-1">
+                <ArrowRightIcon />
+              </span>
+            </button>
           </li>
         </ul>
       </div>
